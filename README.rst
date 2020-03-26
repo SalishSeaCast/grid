@@ -2,6 +2,12 @@
 Salish Sea NEMO Model Grid Files
 ********************************
 
+:License: Apache License, Version 2.0
+
+.. image:: https://img.shields.io/badge/license-Apache%202-cb2533.svg
+    :target: https://www.apache.org/licenses/LICENSE-2.0
+    :alt: Licensed under the Apache License, Version 2.0
+
 Coordinates,
 bathymetry,
 mesh mask,
@@ -17,7 +23,11 @@ The commit message history of files from that repository is included in their in
 License
 =======
 
-The Salish Sea NEMO grid files are copyright 2013-2017 by the `Salish Sea MEOPAR Project Contributors`_ and The University of British Columbia.
+.. image:: https://img.shields.io/badge/license-Apache%202-cb2533.svg
+    :target: https://www.apache.org/licenses/LICENSE-2.0
+    :alt: Licensed under the Apache License, Version 2.0
+
+The Salish Sea NEMO grid files are copyright 2013-2020 by the `Salish Sea MEOPAR Project Contributors`_ and The University of British Columbia.
 
 .. _Salish Sea MEOPAR Project Contributors: https://bitbucket.org/salishsea/docs/src/tip/CONTRIBUTORS.rst
 
