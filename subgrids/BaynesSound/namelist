@@ -1,15 +1,1 @@
-!-----------------------------------------------------------------------
-&namsbc_core   !   namsbc_core  CORE bulk formulea
-!-----------------------------------------------------------------------
-!              !   file name   variable   !  clim   ! 'yearly'/
-!              !                 name     !  (T/F)  ! 'monthly'
-   sn_wndi     = 'atmos',    'u_wind'    , .true.  , 'yearly'
-   sn_wndj     = 'atmos',    'v_wind'    , .true.  , 'yearly'
-   sn_qsr      = 'atmos',    'solar'     , .true.  , 'yearly'
-   sn_qlw      = 'atmos',    'therm_rad' , .true.  , 'yearly'
-   sn_tair     = 'atmos',    'tair'      , .true.  , 'yearly'
-   sn_humi     = 'atmos',    'qair'      , .true.  , 'yearly'
-   sn_prec     = 'atmos',    'precip'    , .true.  , 'yearly'
-   sn_snow     = 'no_snow',  'snow'      , .true.  , 'yearly'
-   cn_dir      = './'      !  root directory for the location of the bulk files
-/
+namelist.get_weight_nemo
